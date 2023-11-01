@@ -12,5 +12,3 @@ Skills: HTML / CSS / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeru02)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeru02&show_icons=true&count_private=true)  
-
