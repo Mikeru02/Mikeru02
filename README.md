@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br><br>I'm Michael Alexis Ponce a 3rd Year student of Computer Science at College of Mary<br>Immaculate Pandi Bulacan Inc. I'm currently learning advance vanilla javascript for<br>front-end and back-end application. 
+Hi there!<br><br>I'm Michael Alexis Ponce a 3rd Year student of Computer Science at College of Mary<br>Immaculate Pandi Bulacan Inc. I'm currently learning advance vanilla javascript and node js<br>framework for front-end and back-end application. 
 
 
 ## 🌐 Socials:
